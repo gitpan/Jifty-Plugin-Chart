@@ -24,7 +24,7 @@ recommends:
   Image::Info: 0
   XML::Simple: 0
 requires:
-  Jifty: 0
+  Jifty: 0.90409
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.9
+version: 1.00
